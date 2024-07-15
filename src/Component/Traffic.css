@@ -1,0 +1,47 @@
+.container-body {
+    background-color: black;
+    width: 200px;
+    height: 400px;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 50px;
+    
+}
+
+.container-colors {
+    width: 200px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+}
+
+.redColor {
+    background-color: red;
+    margin: auto;
+     
+}
+.orangeColor {
+    background-color: orange;
+    margin: auto;
+    margin-top: 20px; 
+    
+}
+.greenColor {
+    background-color: green;
+    margin: auto;
+    margin-top: 20px;  
+}
+.shine-yellow{
+    box-shadow: 1px 1px 70px yellow;
+    
+}
+.shine-green {
+    
+    box-shadow: 1px 1px 70px rgb(0, 255, 0);
+}
+
+.shine-red{
+
+    box-shadow: 1px 1px 70px red;
+
+}
